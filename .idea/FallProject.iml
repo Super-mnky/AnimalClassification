@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.local/lib/python3.10/site-packages">
+      <sourceFolder url="file://$USER_HOME$/.local/lib/python3.10/site-packages" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$" />
+    <content url="file:///lib/python3/dist-packages/requests" />
+    <content url="file:///lib/python3/dist-packages/requests-2.25.1.egg-info" />
     <content url="file:///usr/local/lib/python3.10/dist-packages">
       <sourceFolder url="file:///usr/local/lib/python3.10/dist-packages" isTestSource="false" />
     </content>
